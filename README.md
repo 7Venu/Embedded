@@ -2,6 +2,13 @@
 LTTS EMBEDDED C PROJECT
 
 ## SEAT HEATER
+## In Action
+
+* The buttons have to be switched on before the app starts working.
+* Potentiometer acts as temperature sensor. It gives signal which is converted by ADC and used to make a PWM signal pf corresponding duty cycle, as seen in the oscilloscope.
+* As potentiometer is varied, message containing detected temperature is shown in serial monitor.
+
+![Sample gif](simulation/sample.gif)
 
 ### Activity 1
 ![image](https://user-images.githubusercontent.com/62830313/127742809-ccd8e203-a98b-463e-878a-707ef1dd9869.png)
