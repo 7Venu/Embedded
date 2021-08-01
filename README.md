@@ -8,8 +8,6 @@ LTTS EMBEDDED C PROJECT
 * Potentiometer acts as temperature sensor. It gives signal which is converted by ADC and used to make a PWM signal pf corresponding duty cycle, as seen in the oscilloscope.
 * As potentiometer is varied, message containing detected temperature is shown in serial monitor.
 
-![Uploading sample.gif…]()
-
 
 ### Activity 1
 ![image](https://user-images.githubusercontent.com/62830313/127742809-ccd8e203-a98b-463e-878a-707ef1dd9869.png)
@@ -21,3 +19,8 @@ LTTS EMBEDDED C PROJECT
 ### Activity 3
 
 ![image](https://user-images.githubusercontent.com/80807460/116397080-c36e6800-a843-11eb-9dfd-859f93b1dd28.png)
+
+
+### Sample
+![sample](https://user-images.githubusercontent.com/86421554/127768292-75ad0a70-41b9-4e50-ae54-83dc1634384c.gif)
+
